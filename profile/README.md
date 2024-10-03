@@ -10,7 +10,7 @@ Dell welcomes contributions to any and all repositories within this GitHub Org, 
 
 Please note that pull requests that contribute new example code or update existing sample code in a way that affects usage should include documentation.
 
-If you are a Dell employee and would like to contribute a new repository or a repository currently under your control, reach out to one of the org admins: [Kat Cosgrove](https://github.com/katcosgrove) and [Ryan Wallner](https://github.com/wallnerryan).
+If you are a Dell employee and would like to contribute a new repository or a repository currently under your control, reach out to the org admin: [Anupam Aloke](https://github.com/anupamaloke).
 
 ## Getting Started
 
@@ -24,7 +24,7 @@ If you are a Dell employee and would like to contribute a new repository or a re
 
 2. _Create a new repository for your project._
 
-    Reach out to the org admins: [Kat Cosgrove](https://github.com/katcosgrove) and [Ryan Wallner](https://github.com/wallnerryan) or create a [New Repo Request discussion](https://github.com/orgs/dell-examples/discussions/categories/new-repo-requests). Provide a brief description of the project along with a list GitHub usernames that will need access to the repository as well as a name for the repository.
+    Reach out to the org admin: [Anupam Aloke](https://github.com/anupamaloke) or create a [New Repo Request discussion](https://github.com/orgs/dell-examples/discussions/categories/new-repo-requests). Provide a brief description of the project along with a list GitHub usernames that will need access to the repository as well as a name for the repository.
 
 3. _Push your contributions and provide docs!_
 
